@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Matt Hilan"
 date: "2025-06-12"
 categories: [news]
 ---
